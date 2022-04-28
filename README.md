@@ -10,7 +10,7 @@ Project Description:
 
 The project consists of several layers and entities.
 
-Entities - Vehicle, Wheel.
+Entities - Vehicle, Wheel. 
 Enums - EnergyType, VehicleType.
 
 Layers:
